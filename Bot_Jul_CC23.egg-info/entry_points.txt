@@ -1,0 +1,2 @@
+[console_scripts]
+jul_run = code_crafters_core.main:main

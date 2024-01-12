@@ -1,0 +1,17 @@
+README.md
+setup.py
+Bot_Jul_CC23.egg-info/PKG-INFO
+Bot_Jul_CC23.egg-info/SOURCES.txt
+Bot_Jul_CC23.egg-info/dependency_links.txt
+Bot_Jul_CC23.egg-info/entry_points.txt
+Bot_Jul_CC23.egg-info/requires.txt
+Bot_Jul_CC23.egg-info/top_level.txt
+code_crafters_core/AddressBook.py
+code_crafters_core/AvadaKedavra.py
+code_crafters_core/FileSorting.py
+code_crafters_core/Languages.py
+code_crafters_core/NoteFeature.py
+code_crafters_core/Record.py
+code_crafters_core/RecordData.py
+code_crafters_core/__init__.py
+code_crafters_core/main.py
